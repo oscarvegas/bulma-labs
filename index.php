@@ -8,13 +8,14 @@
         <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
     </head>
     <body>
-        <section class="section">
+        <section class="section hero is-info is-bold">
             <div class="container">
                 <h1 class="title">
-                    Hello World
+                    Bulma labs
                 </h1>
                 <p class="subtitle">
-                    My first website with <strong>Bulma</strong>!
+                    Using <strong>Bulma</strong> we will create full usable 
+                    and exportable components.
                 </p>
             </div>
         </section>
