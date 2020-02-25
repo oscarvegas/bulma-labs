@@ -11,7 +11,7 @@
         <section class="section hero is-info is-bold">
             <div class="container">
                 <h1 class="title">
-                    Bulma labs:
+                    Bulma labs and stuff:
                 </h1>
                 <p class="subtitle">
                     Using <strong>Bulma</strong> we will create full usable 
